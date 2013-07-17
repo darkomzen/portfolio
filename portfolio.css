@@ -79,9 +79,9 @@ li
 }
 .recommandations
 {
-	margin-left : 690px;
+	margin-left : 800px;
   
-  margin-top : -250px;
+  margin-top : -350px;
   width: 550px;
   float:left;
 }
@@ -99,4 +99,57 @@ li
   margin-top : -150px;
   width: 550px;
   float:left;
+}
+
+.adveris
+{
+	color:white;
+	margin-top : -52px;
+	margin-left:10px;
+}
+
+.adveris_content
+{
+	
+	
+	margin-left:20px;
+}
+.havas
+{
+	color:white;
+	margin-top : -38px;
+	margin-left:10px;
+}
+
+.havas_content
+{
+	
+	
+	margin-left:20px;
+}
+.seppic
+{
+	color:white;
+	margin-top : -38px;
+	margin-left:10px;
+}
+
+.seppic_content
+{
+	
+	
+	margin-left:20px;
+}
+.fftt
+{
+	color:white;
+	margin-top : -38px;
+	margin-left:10px;
+}
+
+.fftt_content
+{
+	
+	
+	margin-left:20px;
 }
